@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab Constraint Layout</string>
+    <string name="btn_one">Exercise 2</string>
+    <string name="btn_two">Exercise 3</string>
+    <string name="btn_three">Exercise 4</string>
+    <string name="btn_mail">Write mail</string>
+    <string name="btn_transit_report">Write transit report</string>
+    <string name="to">To:</string>
+    <string name="mail_direction">Enter email address</string>
+    <string name="mail_subject_hint">Subject</string>
+    <string name="mail_send_btn">Send</string>
+    <string name="mail_message_hint">Message</string>
+
+    <string name="to_tr">Para quién:</string>
+    <string name="mail_direction_tr">Ingrese el correo del agente de transito</string>
+    <string name="mail_subject_hint_tr">Razón del reporte</string>
+    <string name="mail_message_hint_tr">Comentenos con mas detalle este incidente</string>
+    <string name="mail_send_btn_tr">Enviar reporte</string>
+    <string name="type_report_tr">Tipo de Incidente:</string>
+    <string-array name="types_incidents">
+        <item>Falta de infraestructura para el peaton</item>
+        <item>Velocidad de vehículos elevada</item>
+        <item>Transeúntes poco visibles</item>
+        <item>Falta de paso peatonal</item>
+    </string-array>
+    <string name="address_incident">Dirección del incidente:</string>
+    <string name="address_incident_hint">Ingrese la dirección</string>
+</resources>
